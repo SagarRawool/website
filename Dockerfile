@@ -1,5 +1,5 @@
 
 FROM hshar/webapp
-ADD. /var/www/html
+ADD . /var/www/html
 
 
